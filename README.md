@@ -2,7 +2,7 @@
 
 Welcome to the Data Structure! 👋
 
-![Data Structures Playground](data-structures.png)
+![data structures](https://github.com/AbirCodes/CSE220/assets/109214535/66909451-f94c-4d38-9b60-c2488a611fce)
 
 Are you eager to explore the fascinating world of Data Structures? Here I have tried to give every possible resource of CSE220 of Summer'23,
 
@@ -50,10 +50,10 @@ Graphs were not covered
 ### Resources
 Check out these valuable resources to enhance your understanding of data structures:
 
-Data Structures and Algorithms - Khan Academy
-GeeksforGeeks - Data Structures
-Coursera - Algorithms and Data Structures Specialization
-Books on Data Structures
+<ol>
+  <li>Geeks For Geeks</li>
+  <li>Leet Code</li>
+</ol>
 
 ## 🌐 How to Use
 
